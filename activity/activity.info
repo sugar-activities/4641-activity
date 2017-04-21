@@ -1,0 +1,7 @@
+[Activity]
+name = Lanzar
+activity_version = 2
+bundle_id = py.una.pol.lanzar
+exec = sugar-activity activity.LanzarActivity
+icon = icon
+license = GPLv2+

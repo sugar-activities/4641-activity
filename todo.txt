@@ -1,0 +1,4 @@
+* Graficar una diana (?) de dardos en la pantalla
+* Barrido horizontal de una barra vertical, que se detenga ante un keypress
+* Barrido vertical de una barra horizontal, que se detenga ante un keypress
+* Determinar puntaje de acuerdo a ubicacion de interseccion de barras anteriores en la diana graficada en el primer paso
